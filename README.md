@@ -11,9 +11,9 @@ Third-year Computer Science undergraduate actively building full-stack web appli
 ---
 
 ### 📌 Current Focus
-- Developing a computer vision / medical imaging classification web app.
-- Building structured REST APIs with database CRUD operations.
-- Consistent daily practice in Data Structures & Algorithms.
+- Building full-stack web applications and machine learning projects
+- Practicing Data Structures & Algorithms daily
+- Contributing regularly on GitHub
 
 ---
 
